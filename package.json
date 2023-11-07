@@ -22,9 +22,6 @@
       "lib/**/*.test.js"
     ]
   },
-  "engines": {
-    "node": "14 || 16 || 18"
-  },
   "keywords": [
     "xml",
     "parser",
